@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "Hamburguesa Simple",
+        "descripcion": "Aenean auctor gravida sem.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Hamburguesa Doble",
+        "descripcion": "Nulla ut erat id mauris vulputate elementum.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Hamburguesa Triple",
+        "descripcion": "Aenean auctor gravida sem.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Cheeseburguer Simple",
+        "descripcion": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Cheeseburguer Doble",
+        "descripcion": "Sed accumsan felis.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Cheeseburguer triple",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Cheeseburguer Con Bacon",
+        "descripcion": "Morbi vel lectus in quam fringilla rhoncus.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Cheeseburguer Con Cebolla",
+        "descripcion": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+        "categoria": "Hamburguesa",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Pizza Muzza",
+        "descripcion": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "categoria": "Pizza",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Pizza Especial",
+        "descripcion": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "categoria": "Pizza",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Pizza Fugazza",
+        "descripcion": "Mauris sit amet eros.",
+        "categoria": "Pizza",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Pizza Napolitana",
+        "descripcion": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "categoria": "Pizza",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Pizza Americana",
+        "descripcion": "Aenean sit amet justo.",
+        "categoria": "Pizza",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Pizza De Pollo",
+        "descripcion": "In blandit ultrices enim.",
+        "categoria": "Pizza",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Super Pancho Clasico",
+        "descripcion": "Nullam varius.",
+        "categoria": "Super Pancho",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Super Pancho Especial",
+        "descripcion": "Cras non velit nec nisi vulputate nonummy.",
+        "categoria": "Super Pancho",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Super Pancho VETTA",
+        "descripcion": "Nulla tempus.",
+        "categoria": "Super Pancho",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Super Pancho Con Panceta",
+        "descripcion": "Etiam justo.",
+        "categoria": "Super Pancho",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Super Pancho COon JyQ",
+        "descripcion": "Morbi non lectus.",
+        "categoria": "Super Pancho",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Super Pancho Doble",
+        "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+        "categoria": "Super Pancho",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    }
+]
